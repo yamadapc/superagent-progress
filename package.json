@@ -1,0 +1,28 @@
+{
+  "name": "superagent-progress",
+  "version": "0.0.1",
+  "description": "Superagent middleware to display a progress-bar for a request.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab:yamadapc/superagent-progress.git"
+  },
+  "keywords": [
+    "superagent",
+    "request",
+    "http",
+    "logging",
+    "progress-bar",
+    "progress",
+    "bar",
+    "terminal"
+  ],
+  "author": "Pedro Tacla Yamada",
+  "license": "MIT",
+  "dependencies": {
+    "progress": "^1.1.8"
+  }
+}
