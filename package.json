@@ -1,6 +1,6 @@
 {
   "name": "superagent-progress",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Superagent middleware to display a progress-bar for a request.",
   "main": "lib/index.js",
   "scripts": {
